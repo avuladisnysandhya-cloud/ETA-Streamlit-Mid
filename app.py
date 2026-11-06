@@ -247,7 +247,7 @@ st.markdown(
     """
     <div style="text-align: center; padding: 15px;">
         <h4>🎬 Movie Analytics Dashboard</h4>
-        <p>Midsem Project | Made by Shilpa</p>
+        <p>Midsem Project | Made by Disny sandhya</p>
         <p>Built using Python, Pandas and Streamlit</p>
     </div>
     """,
